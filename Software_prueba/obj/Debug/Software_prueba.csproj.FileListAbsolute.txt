@@ -1,0 +1,14 @@
+C:\Users\jose giron\source\repos\Software_prueba\bin\Debug\Software_prueba.exe.config
+C:\Users\jose giron\source\repos\Software_prueba\bin\Debug\Software_prueba.exe
+C:\Users\jose giron\source\repos\Software_prueba\bin\Debug\Software_prueba.pdb
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.csproj.AssemblyReference.cache
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.Form1.resources
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.Properties.Resources.resources
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.csproj.GenerateResource.cache
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.csproj.CoreCompileInputs.cache
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.exe
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.pdb
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.Forms.FormPacientes.resources
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.Forms.FormHistoria.resources
+C:\Users\jose giron\source\repos\Software_prueba\obj\Debug\Software_prueba.Forms.Reportes.resources
+C:\Users\jose giron\source\repos\Software_prueba\bin\Debug\base_proyecto.accdb
